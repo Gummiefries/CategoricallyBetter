@@ -1,4 +1,4 @@
-CATEGORICALLY BETTER -- VERSION 0.8.3
+CATEGORICALLY BETTER -- VERSION 0.8.3 
 ==================================
 Urbek City Builder | Construction Menu Overhaul
 
